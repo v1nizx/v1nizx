@@ -1,7 +1,7 @@
 # Hi I'm Vinicius 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marcos-vinicius-44a011259)](www.linkedin.com/in/marcos-vinicius-44a011259)
-[![Website Badge](https://img.shields.io/badge/-vinizxdev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://portifolio-alternativo-bqb0pqbww-vinicius-projects-e6aa3f6e.vercel.app/)](https://portifolio-alternativo-bqb0pqbww-vinicius-projects-e6aa3f6e.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/-vinizxdev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://vinizxdev.vercel.app/)](https://vinizxdev.vercel.app/)
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1nizx&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
