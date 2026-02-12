@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vinicius%20🚀&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Building%20cool%20stuff&descSize=18&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=520&lines=Apaixonado+por+código+e+tecnologia+💻;Sempre+aprendendo+algo+novo+📚;Transformando+ideias+em+realidade+✨;Open+Source+Enthusiast+🌍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=520&lines=Apaixonado+por+tecnologia+e+inovação+💻;Sempre+aprendendo+algo+novo+📚;Transformando+ideias+em+realidade+✨;Open+Source+Enthusiast+🌍)](https://git.io/typing-svg)
 
 <br/>
 
